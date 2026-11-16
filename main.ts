@@ -1,4 +1,4 @@
-// EMBER YARD — a threejs-fps-01 entry (Node 22, standard library only): the game is this
+// EMBER YARD — a threejs-fps-02 entry (Node 22, standard library only): the game is this
 // directory's game/ folder, plain static files the browser loads as ES modules with three.js
 // from an import map, and the program hands it in. It copies game/ and screenshots/ from beside
 // this file to /output and writes /output/dossier.json, the summary the judge reads, with the
