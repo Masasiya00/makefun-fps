@@ -1,7 +1,7 @@
 # EMBER YARD — a three.js tactical FPS
 
 A round-based tactical FPS in a dusk container yard, built for make.fun's
-`threejs-fps-01` bounty ("Make the best three.js tactical FPS").
+`threejs-fps-02` bounty ("Make the best three.js tactical FPS").
 
 You are Ember Crew. Plant the charge at Site A — or wipe the Dock Wardens.
 First to 5 rounds takes the match.
